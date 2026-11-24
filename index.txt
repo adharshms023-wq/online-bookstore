@@ -1,3 +1,4 @@
 You’ve joined a small development team that is building an Online Bookstore Website. The 
 team has decided to use Git and GitHub for version control and collaboration. Your task is to 
 set up and manage version control for the project using Git and GitHub Desktop.
+changes are made by new person 
